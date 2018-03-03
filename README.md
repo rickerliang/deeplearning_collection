@@ -11,6 +11,7 @@
   - [DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding](https://arxiv.org/abs/1709.04696)
 - Stack-augmented Parser-Interpreter Neural Network (SPINN)
   - [A Fast Unified Model for Parsing and Sentence Understanding](https://arxiv.org/abs/1603.06021)
+- [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576)
 
 ## training technic
 - virtual adversarial training
