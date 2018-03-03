@@ -9,7 +9,7 @@
   - [A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)
   - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   - [DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding](https://arxiv.org/abs/1709.04696)
-- Stack-augmented Parser-Interpreter Neural Network
+- Stack-augmented Parser-Interpreter Neural Network (SPINN)
   - [A Fast Unified Model for Parsing and Sentence Understanding](https://arxiv.org/abs/1603.06021)
 
 ## training technic
