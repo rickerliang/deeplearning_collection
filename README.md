@@ -2,6 +2,13 @@
 ## architecture improvement
 - a-softmax
   - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063)
+- [Pointer Sentinel Mixture Models](https://arxiv.org/abs/1609.07843)
+- Max over time pooling
+  - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
+- Self attention
+  - [A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)
+  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  - [DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding](https://arxiv.org/abs/1709.04696)
 
 ## training technic
 - virtual adversarial training
