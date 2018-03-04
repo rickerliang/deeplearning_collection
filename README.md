@@ -27,7 +27,7 @@
   - [Towards better decoding and language model integration in sequence to sequence models](https://arxiv.org/abs/1612.02695), neighborhood smoothing scheme, Google Brain 2016
 
 ## data augmentation
-- adversarial domain adaptation
+- Adversarial domain adaptation
   - [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464), CVPR 2017
   - [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/abs/1711.03213)
   - [Adversarial Feature Augmentation for Unsupervised Domain Adaptation](https://arxiv.org/abs/1711.08561)
