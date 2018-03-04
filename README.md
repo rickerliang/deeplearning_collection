@@ -39,6 +39,7 @@
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028), NIPS 2017
 - [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)
+- [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/abs/1703.00848), NIPS 2017
 
 ## style transfer
 - [Universal Style Transfer via Feature Transforms](https://arxiv.org/abs/1705.08086), NIPS 2017
