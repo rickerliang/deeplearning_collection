@@ -47,3 +47,6 @@
 ## system
 - [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf), NIPS 2012
 - [ring allreduce](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
+
+## dataset
+- [Chinese Text in the Wild](https://arxiv.org/abs/1803.00085v1)
