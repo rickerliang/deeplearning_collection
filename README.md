@@ -47,6 +47,7 @@
 ## system
 - [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf), NIPS 2012
 - [ring allreduce](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
+- [Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/abs/1802.05799)
 
 ## dataset
 - [Chinese Text in the Wild](https://arxiv.org/abs/1803.00085v1)
