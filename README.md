@@ -2,6 +2,8 @@
 ## architecture improvement
 - a-softmax
   - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063), CVPR 2017
+- Additive Angular Margin
+  - [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)
 - [Pointer Sentinel Mixture Models](https://arxiv.org/abs/1609.07843), ICLR 2017
 - Max over time pooling
   - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), EMNLP 2014
