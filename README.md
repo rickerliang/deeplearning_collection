@@ -52,6 +52,8 @@
 - [Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/abs/1802.05799)
 
 ## dataset
+- Kaggle
+  - [plant-seedlings-classification](https://www.kaggle.com/c/plant-seedlings-classification/data)
 - [Chinese Text in the Wild](https://arxiv.org/abs/1803.00085v1)
 - [Microsoft COCO: Common Objects in Context](https://arxiv.org/abs/1405.0312)
 - [MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition](https://arxiv.org/abs/1607.08221)
