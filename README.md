@@ -25,7 +25,7 @@
   - [Automated Curriculum Learning for Neural Networks](https://arxiv.org/abs/1704.03003), ICML 2017
 - Label smoothing
   - [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567), spread the 1 − β probability mass uniformly over all classes, CVPR 2016
-  - [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548),  distributes the remaining probability mass proportionally to the marginal probability of classes, ICLR 2017
+  - [Regularizing Neural Networks by Penalizing Confident Output Distributions](https://arxiv.org/abs/1701.06548),  confidence penalty, label smoothing, distributes the remaining probability mass proportionally to the marginal probability of classes, ICLR 2017
   - [Towards better decoding and language model integration in sequence to sequence models](https://arxiv.org/abs/1612.02695), neighborhood smoothing scheme, Google Brain 2016
   - [Improved training for online end-to-end speech recognition systems](https://arxiv.org/abs/1711.02212), add a regularization term to the CTC objective function which consists of the KL divergence between the network’s predicted distribution P and a uniform distribution U over labels, ICASSP 2018
 
