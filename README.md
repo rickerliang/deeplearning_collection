@@ -1,4 +1,4 @@
-# deeplearning_paper_collection
+# deeplearning_collection
 ## architecture improvement
 - a-softmax
   - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063), CVPR 2017
