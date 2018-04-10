@@ -63,6 +63,7 @@
 - [Microsoft COCO: Common Objects in Context](https://arxiv.org/abs/1405.0312)
 - [MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition](https://arxiv.org/abs/1607.08221)
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets/blob/master/README.md)
+- [xmedia](http://www.icst.pku.edu.cn/mipl/xmedia/)
 
 ## tools
 - [Lucid](https://github.com/tensorflow/lucid)
