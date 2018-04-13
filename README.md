@@ -51,6 +51,9 @@
 ## style transfer
 - [Universal Style Transfer via Feature Transforms](https://arxiv.org/abs/1705.08086), NIPS 2017
 
+## super resolution
+- [Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform](https://github.com/xinntao/CVPR18-SFTGAN), CVPR 2018
+
 ## system
 - [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf), NIPS 2012
 - [ring allreduce](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
