@@ -9,7 +9,7 @@
   - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), EMNLP 2014
 - Self attention
   - [A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130), ICLR 2017
-  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762), NIPS 2017
+  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762), Transformer, noam learning rate warnup, NIPS 2017
   - [DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding](https://arxiv.org/abs/1709.04696), AAAI 2018
 - Stack-augmented Parser-Interpreter Neural Network (SPINN)
   - [A Fast Unified Model for Parsing and Sentence Understanding](https://arxiv.org/abs/1603.06021), ACL 2016
