@@ -17,6 +17,7 @@
 
 ## training technic
 - Optimization methods
+  - [Adafactor: Adaptive Learning Rates with Sublinear Memory Cost](https://arxiv.org/abs/1804.04235), Adafactor
   - [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417), powersign, addsign
   - [SGDR: stochastic gradient descent with restarts](https://arxiv.org/abs/1608.03983), restart decay, ICLR 2017
 - Virtual adversarial training
