@@ -70,6 +70,7 @@
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets/blob/master/README.md)
 - [xmedia](http://www.icst.pku.edu.cn/mipl/xmedia/)
 - [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+- [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
 ## tools
 - [Lucid](https://github.com/tensorflow/lucid)
