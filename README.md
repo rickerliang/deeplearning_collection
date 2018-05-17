@@ -71,6 +71,8 @@
 - [xmedia](http://www.icst.pku.edu.cn/mipl/xmedia/)
 - [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 - [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
+- [OpenImages](https://storage.googleapis.com/openimages/web/index.html)
+- [YouTube8M](https://research.google.com/youtube8m/)
 
 ## tools
 - [Lucid](https://github.com/tensorflow/lucid)
