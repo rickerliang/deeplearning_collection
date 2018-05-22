@@ -47,6 +47,7 @@
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028), NIPS 2017
 - [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)
 - [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/abs/1703.00848), NIPS 2017
+- [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732)
 - [Be Your Own Prada: Fashion Synthesis with Structural Coherence](https://arxiv.org/abs/1710.07346), ICCV 2017
 
 ## style transfer
