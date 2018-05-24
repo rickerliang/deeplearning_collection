@@ -77,3 +77,6 @@
 
 ## tools
 - [Lucid](https://github.com/tensorflow/lucid)
+
+## rules
+- [rules-of-ml](https://developers.google.cn/machine-learning/rules-of-ml/)
