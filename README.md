@@ -45,6 +45,7 @@
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593), ICCV 2017
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028), NIPS 2017
+- [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
 - [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)
 - [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/abs/1703.00848), NIPS 2017
 - [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732)
