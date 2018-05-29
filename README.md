@@ -73,7 +73,7 @@
 - [xmedia](http://www.icst.pku.edu.cn/mipl/xmedia/)
 - [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 - [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
-- [OpenImages](https://storage.googleapis.com/openimages/web/index.html)
+- [OpenImages](https://storage.googleapis.com/openimages/web/index.html), Containing 15.4M bounding-boxes for 600 categories on 1.9M images
 - [YouTube8M](https://research.google.com/youtube8m/)
 
 ## tools
