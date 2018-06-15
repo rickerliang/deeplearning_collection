@@ -76,7 +76,7 @@
 - [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 - [OpenImages](https://storage.googleapis.com/openimages/web/index.html), Containing 15.4M bounding-boxes for 600 categories on 1.9M images
 - [YouTube8M](https://research.google.com/youtube8m/)
-- [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)The Stanford Question Answering Dataset
+- [SQuAD 2.0 The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 
 ## tools
 - [Lucid](https://github.com/tensorflow/lucid)
