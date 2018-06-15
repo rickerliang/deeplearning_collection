@@ -50,6 +50,7 @@
 - [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/abs/1703.00848), NIPS 2017
 - [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732)
 - [Be Your Own Prada: Fashion Synthesis with Structural Coherence](https://arxiv.org/abs/1710.07346), ICCV 2017
+- [Learning Face Age Progression: A Pyramid Architecture of GANs](https://arxiv.org/abs/1711.10352, CVPR 2018
 
 ## style transfer
 - [Universal Style Transfer via Feature Transforms](https://arxiv.org/abs/1705.08086), NIPS 2017
