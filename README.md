@@ -41,6 +41,7 @@
   - [Addressing Appearance Change in Outdoor Robotics with Adversarial Domain Adaptation](https://arxiv.org/abs/1703.01461), IROS 2017
   - [Incremental Adversarial Domain Adaptation for Continually Changing Environments](https://arxiv.org/abs/1712.07436), ICRA 2018
  - [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813), JAIR Volume 16, pages 321-357, 2002
+ - [ADASYN: Adaptive synthetic sampling approach for imbalanced learning](http://sci2s.ugr.es/keel/pdf/algorithm/congreso/2008-He-ieee.pdf), IEEE 2008
 
 ## gan
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593), ICCV 2017
