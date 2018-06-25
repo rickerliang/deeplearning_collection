@@ -40,6 +40,7 @@
   - [Adversarial Feature Augmentation for Unsupervised Domain Adaptation](https://arxiv.org/abs/1711.08561)
   - [Addressing Appearance Change in Outdoor Robotics with Adversarial Domain Adaptation](https://arxiv.org/abs/1703.01461), IROS 2017
   - [Incremental Adversarial Domain Adaptation for Continually Changing Environments](https://arxiv.org/abs/1712.07436), ICRA 2018
+ - [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813), JAIR Volume 16, pages 321-357, 2002
 
 ## gan
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593), ICCV 2017
