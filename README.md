@@ -16,6 +16,8 @@
 - [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576), ICLR 2017
 
 ## training technic
+- Initialization scheme
+  - [Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks](https://arxiv.org/abs/1806.05393), [Delta-Orthogonal Initialization](https://www.tensorflow.org/api_docs/python/tf/contrib/framework/convolutional_delta_orthogonal)
 - Optimization methods
   - [Adafactor: Adaptive Learning Rates with Sublinear Memory Cost](https://arxiv.org/abs/1804.04235), Adafactor
   - [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417), powersign, addsign
