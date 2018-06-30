@@ -24,6 +24,7 @@
   - [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417), powersign, addsign
   - [SGDR: stochastic gradient descent with restarts](https://arxiv.org/abs/1608.03983), restart decay, ICLR 2017
   - [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820), [The 1cycle policy](https://sgugger.github.io/the-1cycle-policy.html#the-1cycle-policy)
+  - [SNAPSHOT ENSEMBLES: TRAIN 1, GET M FOR FREE](https://arxiv.org/abs/1704.00109), Cyclic Cosine Annealing, before restart take a snapshot
 - Virtual adversarial training
   - [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677), ICLR 2016
   - [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725), ICLR 2017
