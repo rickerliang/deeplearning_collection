@@ -15,6 +15,8 @@
   - [A Fast Unified Model for Parsing and Sentence Understanding](https://arxiv.org/abs/1603.06021), ACL 2016
 - [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576), ICLR 2017
 - [ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs](https://arxiv.org/abs/1512.05193v4), siamese architecture TACL 2016
+- [Skip-Thought Vectors](https://arxiv.org/abs/1506.06726), Using word vector learning as inspiration, we
+propose an objective function that abstracts the skip-gram model to the sentence level. NIPS 2015
 
 ## training technic
 - Initialization scheme
