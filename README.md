@@ -93,3 +93,5 @@ propose an objective function that abstracts the skip-gram model to the sentence
 
 ## rules
 - [rules-of-ml](https://developers.google.cn/machine-learning/rules-of-ml/)
+- [Practical Advice for Building Deep Neural Networks](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/)
+
