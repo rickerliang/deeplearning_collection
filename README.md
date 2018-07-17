@@ -18,6 +18,7 @@
 - [Skip-Thought Vectors](https://arxiv.org/abs/1506.06726), Using word vector learning as inspiration, we
 propose an objective function that abstracts the skip-gram model to the sentence level. NIPS 2015
 - [ELMo, Embeddings from Language Models](https://arxiv.org/abs/1802.05365), word vectors are learned functions of the internal states of a deep bidirectional language model, NAACL 2018
+- [Universal Language Model Fine-tuning (ULMFiT)](https://arxiv.org/abs/1801.06146), ACL 2018
 
 ## training technic
 - Initialization scheme
