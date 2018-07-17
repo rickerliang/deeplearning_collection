@@ -89,6 +89,7 @@ propose an objective function that abstracts the skip-gram model to the sentence
 
 ## tools
 - [Lucid](https://github.com/tensorflow/lucid)
+- [seedbank](http://tools.google.com/seedbank/)
 
 ## rules
 - [rules-of-ml](https://developers.google.cn/machine-learning/rules-of-ml/)
