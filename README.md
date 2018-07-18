@@ -92,7 +92,7 @@ propose an objective function that abstracts the skip-gram model to the sentence
 ## tools
 - [Lucid](https://github.com/tensorflow/lucid)
 - [seedbank](http://tools.google.com/seedbank/)
-- [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
+- [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 - [HanLP: Han Language Processing](https://github.com/hankcs/HanLP)
 
 ## rules
