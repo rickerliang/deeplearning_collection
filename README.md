@@ -1,4 +1,6 @@
 # deeplearning_collection
+## comparison
+- [Evaluation of sentence embeddings in downstream and linguistic probing tasks](https://arxiv.org/abs/1806.06259), a nice and extensive comparison between ELMo, InferSent, Google Universal Sentence Encoder, p-mean, Skip-thought
 ## architecture improvement
 - a-softmax
   - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063), CVPR 2017
