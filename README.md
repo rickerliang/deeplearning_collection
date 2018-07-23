@@ -22,6 +22,7 @@ propose an objective function that abstracts the skip-gram model to the sentence
 - [ELMo, Embeddings from Language Models](https://arxiv.org/abs/1802.05365), word vectors are learned functions of the internal states of a deep bidirectional language model, NAACL 2018
 - [Universal Language Model Fine-tuning (ULMFiT)](https://arxiv.org/abs/1801.06146), ACL 2018
 - [Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information](https://arxiv.org/abs/1805.11360)
+- [A Hybrid Learning Scheme for Chinese Word Embedding](http://www.aclweb.org/anthology/W18-3011)
 
 ## training technic
 - Initialization scheme
