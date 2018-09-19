@@ -98,6 +98,7 @@ propose an objective function that abstracts the skip-gram model to the sentence
 - [seedbank](http://tools.google.com/seedbank/)
 - [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 - [HanLP: Han Language Processing](https://github.com/hankcs/HanLP)
+- [What-If Tool](https://pair-code.github.io/what-if-tool/)
 
 ## rules
 - [rules-of-ml](https://developers.google.cn/machine-learning/rules-of-ml/)
