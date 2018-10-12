@@ -23,7 +23,7 @@ propose an objective function that abstracts the skip-gram model to the sentence
 - [Universal Language Model Fine-tuning (ULMFiT)](https://arxiv.org/abs/1801.06146), ACL 2018
 - [Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information](https://arxiv.org/abs/1805.11360)
 - [A Hybrid Learning Scheme for Chinese Word Embedding](http://www.aclweb.org/anthology/W18-3011), word, character and component, ACL 2018
-- [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603, ICLR 2017)
+- [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603), ICLR 2017
 
 ## training technic
 - Initialization scheme
