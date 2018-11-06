@@ -25,6 +25,7 @@ propose an objective function that abstracts the skip-gram model to the sentence
 - [A Hybrid Learning Scheme for Chinese Word Embedding](http://www.aclweb.org/anthology/W18-3011), word, character and component, ACL 2018
 - [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603), ICLR 2017
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), a bidirectional Transformer, representations are jointly conditioned on both left and right context in all layers
+- [Matrix Power Normalized Covariance Pooling For Deep Convolutional Networks](http://peihuali.org/iSQRT-COV/index.html), Matrix Power Normalized Covariance pooling, (Fast-)MPN-COV, ICCV 2017, CVPR 2018
 
 ## training technic
 - Initialization scheme
