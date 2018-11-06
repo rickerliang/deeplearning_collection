@@ -4,4 +4,4 @@
 
 [imaterialist challenge fashion 1st place solution pretrained CNNs -> xgboost -> F1 optimization](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018/discussion/57944)
 
-[iNaturalist Competition 2018]([https://sites.google.com/view/fgvc5/competitions/inaturalist)
+[iNaturalist Competition 2018](https://sites.google.com/view/fgvc5/competitions/inaturalist)
