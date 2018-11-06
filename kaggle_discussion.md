@@ -3,3 +3,5 @@
 [Google Landmark Recognition Challenge 4th place](https://www.kaggle.com/c/landmark-recognition-challenge/discussion/57896)
 
 [imaterialist challenge fashion 1st place solution pretrained CNNs -> xgboost -> F1 optimization](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018/discussion/57944)
+
+[iNaturalist Competition 2018]([https://sites.google.com/view/fgvc5/competitions/inaturalist)
