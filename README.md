@@ -69,6 +69,7 @@ propose an objective function that abstracts the skip-gram model to the sentence
 - [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732), ECCV 2018
 - [Be Your Own Prada: Fashion Synthesis with Structural Coherence](https://arxiv.org/abs/1710.07346), ICCV 2017
 - [Learning Face Age Progression: A Pyramid Architecture of GANs](https://arxiv.org/abs/1711.10352), CVPR 2018
+- [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 
 ## style transfer
 - [Universal Style Transfer via Feature Transforms](https://arxiv.org/abs/1705.08086), NIPS 2017
