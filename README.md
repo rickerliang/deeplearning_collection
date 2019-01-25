@@ -96,6 +96,12 @@ propose an objective function that abstracts the skip-gram model to the sentence
 - [OpenImages](https://storage.googleapis.com/openimages/web/index.html), Containing 15.4M bounding-boxes for 600 categories on 1.9M images
 - [YouTube8M](https://research.google.com/youtube8m/)
 - [SQuAD 2.0 The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+- [UCI Machine Learning Repository Data sets](http://archive.ics.uci.edu/ml/datasets.html)
+- [Microsoft Research Open Data](https://msropendata.com/)
+- [APD](https://github.com/awesomedata/awesome-public-datasets)
+- [EUODP](http://data.europa.eu/euodp/data/dataset)
+- [https://www.data.gov/](https://www.data.gov/)
+- [Visual Data](https://www.visualdata.io/)
 
 ## tools
 - [Lucid](https://github.com/tensorflow/lucid)
